@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manolo Dal Bo</h1>
 <h3 align="center">A junior studying Computing Engineering at Brown University</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 401-340-8525, mdalbo@brown.edu</h3>
 <p align="left">
 </p>
 
